@@ -6,7 +6,11 @@ namespace CSharp8
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello CSharp!");
+            Console.WriteLine("------------------------------------------");
+
+            Console.WriteLine("Indices and Ranges");
+            IndicesAndRanges.Demo();
         }
     }
 }
